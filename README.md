@@ -26,7 +26,7 @@ An interactive **Power BI** dashboard that analyzes Netflix's library of **Movie
     - 💬 **Number of Votes**  
     - 🎬 **Title & Type (Movie/TV Show)**
   
- ![Interactive Titles Explorer](images/top_rated_titles.png)
+       ![Interactive Titles Explorer](images/top_rated_titles.png)
  
 ## 🌍 Global Insights
 - The **United States** leads in both total titles and user votes.  
