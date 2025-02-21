@@ -24,8 +24,10 @@ An interactive **Power BI** dashboard that analyzes Netflix's library of **Movie
   - 🎯 **Interactive Titles Explorer** — A searchable visual displaying **all Netflix Movies & TV Shows** with key details:  
     - ⭐ **Rating**  
     - 💬 **Number of Votes**  
-    - 🎬 **Title & Type (Movie/TV Show)** 
+    - 🎬 **Title & Type (Movie/TV Show)**
+  
  ![Interactive Titles Explorer](images/top_rated_titles.png)
+ 
 ## 🌍 Global Insights
 - The **United States** leads in both total titles and user votes.  
 - **Comedy** and **Drama** dominate in volume, while **Documentaries** rank highest in average ratings.  
