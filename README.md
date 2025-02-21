@@ -19,7 +19,9 @@ An interactive **Power BI** dashboard that analyzes Netflix's library of **Movie
   ![Rating Distribution](images/rating_distribution.png)
 
   - **Average Ratings by Genre** and number of titles.
-  ![Genre Ratings](images/genre_ratings.png)
+  <div align="center">
+  <img src="images/rating_distribution.png" alt="Rating Distribution" width="600"/>
+</div>
 
   - 🎯 **Interactive Titles Explorer** — A searchable visual displaying **all Netflix Movies & TV Shows** with key details:  
     - ⭐ **Rating**  
