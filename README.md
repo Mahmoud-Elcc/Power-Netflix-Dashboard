@@ -4,7 +4,7 @@ An interactive **Power BI** dashboard that analyzes Netflix's library of **Movie
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard Preview](images/Netflix Dashboard.png)
+![Netflix Dashboard Preview](images/Netflix_Dashboard.png)
 
 ## 📊 Key Features
 
